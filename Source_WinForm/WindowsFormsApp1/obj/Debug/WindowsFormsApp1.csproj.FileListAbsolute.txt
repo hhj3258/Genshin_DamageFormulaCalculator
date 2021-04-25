@@ -1,0 +1,28 @@
+C:\Users\hhj32\Desktop\새 폴더\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hhj32\Desktop\새 폴더\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\hhj32\Desktop\새 폴더\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\hhj32\Desktop\새 폴더\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hhj32\Desktop\새 폴더\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hhj32\Desktop\새 폴더\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\hhj32\Desktop\새 폴더\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hhj32\Desktop\새 폴더\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hhj32\Desktop\새 폴더\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hhj32\Desktop\새 폴더\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\hhj32\Desktop\새 폴더\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\hhj32\Desktop\새 폴더\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hhj32\Desktop\새 폴더\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hhj32\Desktop\새 폴더\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\자료모음\원신_데미지계산기\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\자료모음\원신_데미지계산기\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+D:\자료모음\원신_데미지계산기\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+D:\자료모음\원신_데미지계산기\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\자료모음\원신_데미지계산기\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\자료모음\원신_데미지계산기\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\자료모음\원신_데미지계산기\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\자료모음\원신_데미지계산기\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\자료모음\원신_데미지계산기\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\자료모음\원신_데미지계산기\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\자료모음\원신_데미지계산기\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+D:\자료모음\원신_데미지계산기\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+D:\자료모음\원신_데미지계산기\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\자료모음\원신_데미지계산기\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
