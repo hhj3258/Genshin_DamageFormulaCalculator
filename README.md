@@ -6,5 +6,8 @@
 ## 사용 도구
 C# Windows Forms 앱(.NetFrameWork)으로 제작
 
+## 사용 방법
+텍스트 박스에 플레이어 캐릭터의 고유값 및 해당하는 값들을 넣어주고 계산 버튼을 눌러주면 총 계산값을 아래에 표시해줌
+
 ## 실행 화면
 ![image](https://user-images.githubusercontent.com/70702088/116783187-43a4ff80-aac8-11eb-8ff7-5ad8c2874c4b.png)
